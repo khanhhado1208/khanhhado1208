@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**khanhhado1208/khanhhado1208** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Hi there, my name is Ha👋
 
 - 🔭 I’m currently working on my thesis
 - 🌱 I’m currently learning C#, Java
@@ -11,7 +6,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with some tech stacks
 - 💬 Ask me about anything that I have known
 - ⚡ Fun fact: I'm lazy but not stupid
--->
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discordapp.com/users/472454551799201794) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hado.lion) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hakhanhdo/) 
