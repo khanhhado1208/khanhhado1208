@@ -1,9 +1,7 @@
 ### Hi there, my name is Ha👋
 
-- 🔭 I’m currently working on my thesis
-- 🌱 I’m currently learning C#, Java
-- 👯 I’m looking to collaborate on software development
-- 🤔 I’m looking for help with some tech stacks
+- 🔭 I’m a first year master student at Turku university
+- 🌱 I’m currently learning ROS, Computer Vision, VHDL
 - 💬 Ask me about anything that I have known
 - ⚡ Fun fact: I'm lazy but not stupid
 
