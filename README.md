@@ -1,4 +1,4 @@
-### Hi there, my name is Ha👋
+### Hi there, my name is Hà👋
 
 - 🔭 I’m a first year master student at Turku university
 - 🌱 I’m currently learning ROS2, Computer Vision, VHDL
