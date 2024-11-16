@@ -1,7 +1,7 @@
 ### Hi there, my name is Ha👋
 
 - 🔭 I’m a first year master student at Turku university
-- 🌱 I’m currently learning ROS, Computer Vision, VHDL
+- 🌱 I’m currently learning ROS2, Computer Vision, VHDL
 - 💬 Ask me about anything that I have known
 - ⚡ Fun fact: I'm lazy but not stupid
 
