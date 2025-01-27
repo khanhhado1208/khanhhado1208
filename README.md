@@ -1,7 +1,7 @@
 ### Hi there, my name is Hà👋
 
 - 🔭 I’m a first year master student at Turku university
-- 🌱 I’m currently learning ROS2, Computer Vision, VHDL
+- 🌱 I’m currently learning Machine Learning for Mechanical Engineering, Computer visision and sensor fusion
 - 💬 Ask me about anything that I have known
 - ⚡ Fun fact: I'm lazy but not stupid
 
