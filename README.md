@@ -1,6 +1,6 @@
 ### Hi there, my name is Hà👋
 
-- 🔭 I’m a first year master student at Turku university
+- 🔭 I’m a second-year master student at Turku university
 - 🌱 I’m currently learning stuff for my master program
 - 💬 Ask me about anything that I have known
 - ⚡ Fun fact: I'm lazy but not stupid
